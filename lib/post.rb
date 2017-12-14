@@ -11,3 +11,4 @@ class Post
     else self.title.author
   end
 end
+end
